@@ -1052,7 +1052,7 @@ a {
 }
 .cid-tASpnRdqfI {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   background-color: #bbbbbb;
 }
 @media (max-width: 991px) {
@@ -1559,6 +1559,15 @@ a {
   .cid-tASI0bKVM8 .timeline-text-wrapper {
     padding: 2rem;
   }
+}
+.cid-tASI0bKVM8 .mbr-text {
+  color: #ffffff;
+}
+.cid-tASI0bKVM8 .mbr-timeline-title {
+  color: #ffffff;
+}
+.cid-tASI0bKVM8 .mbr-timeline-date {
+  color: #ffffff;
 }
 .cid-s48P1Icc8J {
   padding-top: 3rem;
