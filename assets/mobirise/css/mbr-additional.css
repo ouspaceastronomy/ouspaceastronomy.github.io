@@ -2430,6 +2430,13 @@ a {
 .cid-tASuLe8tnL .bg-facebook:hover {
   background: #0b60cb;
 }
+.cid-tASuLe8tnL .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-tASuLe8tnL .bg-instagram:hover {
+  background: #bd005c;
+}
 .cid-tASuLe8tnL .bg-youtube {
   background: #ff0000;
   color: #ffffff;
