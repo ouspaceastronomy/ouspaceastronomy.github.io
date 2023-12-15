@@ -3863,8 +3863,94 @@ a {
     left: -1rem;
   }
 }
+.cid-tYvEOkPLuI {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tYvEOkPLuI .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tYvEOkPLuI img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tYvEOkPLuI .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tYvFpOmm90 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tYvFpOmm90 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tYvFpOmm90 .row {
+  flex-direction: row-reverse;
+}
+.cid-tYvFpOmm90 img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tYvFpOmm90 .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tYvFpOmm90 .mbr-text {
+  text-align: left;
+}
+.cid-tYvHQDjBmb {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tYvHQDjBmb .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tYvHQDjBmb img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tYvHQDjBmb .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tYvK9myjaK {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-tYvK9myjaK .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tYvK9myjaK .row {
+  flex-direction: row-reverse;
+}
+.cid-tYvK9myjaK img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-tYvK9myjaK .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tYvJDIhe4H {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #bbbbbb;
+}
 .cid-tV3OsyQQfm {
-  padding-top: 10rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
@@ -3974,6 +4060,11 @@ a {
 }
 .cid-tTVBVIZFBS .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-tYvG55wz94 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-tV3Vd4tuXT {
   background-image: url("../../../assets/images/firefly-an-image-in-which-a-person-is-looking-through-a-telescope.-the-telescope-is-pointed-at-a-nig-3-2000x1143.jpg");
