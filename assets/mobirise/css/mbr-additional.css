@@ -2093,16 +2093,6 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-u1hksg8Q5o {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
-}
-.cid-tV40MUWLJR {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-948x632.jpg");
-}
 .cid-s48MCQYojq {
   padding-top: 10rem;
   padding-bottom: 10rem;
@@ -2123,6 +2113,16 @@ a {
   .cid-s48MCQYojq .mbr-text {
     text-align: center;
   }
+}
+.cid-tV40MUWLJR {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-948x632.jpg");
+}
+.cid-u1hksg8Q5o {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -3460,7 +3460,7 @@ a {
   color: #ffffff;
 }
 .cid-tTVBVIeZjk .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-tTVBVIZFBS {
   padding-top: 3rem;
