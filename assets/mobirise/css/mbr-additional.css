@@ -1,9 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
-
-
-
-
-
 .btn {
   border-width: 2px;
 }
@@ -2093,37 +2087,6 @@ a {
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-s48MCQYojq {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-1920x1311.jpg");
-}
-.cid-s48MCQYojq .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
-    text-align: center;
-  }
-}
-.cid-tV40MUWLJR {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-948x632.jpg");
-}
-.cid-u1hksg8Q5o {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
-}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -2463,6 +2426,37 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-s48MCQYojq {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-1920x1311.jpg");
+}
+.cid-s48MCQYojq .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s48MCQYojq .mbr-text,
+.cid-s48MCQYojq .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-s48MCQYojq .mbr-section-title,
+  .cid-s48MCQYojq .mbr-section-btn,
+  .cid-s48MCQYojq .mbr-text {
+    text-align: center;
+  }
+}
+.cid-tV40MUWLJR {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-948x632.jpg");
+}
+.cid-u1hksg8Q5o {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
 }
 .cid-s48P1Icc8J {
   padding-top: 3rem;
@@ -4092,89 +4086,6 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-tV3Vd4tuXT {
-  padding-top: 10rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/firefly-an-image-in-which-a-person-is-looking-through-a-telescope.-the-telescope-is-pointed-at-a-nig-3-2000x1143.jpg");
-}
-.cid-tV3Vd4tuXT .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-tV3Vd4tuXT .mbr-section-subtitle {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-tV3Vd4tuXT .mbr-text,
-.cid-tV3Vd4tuXT .mbr-section-btn {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-tV3YxEx0wY {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background: #232323;
-}
-@media (max-width: 767px) {
-  .cid-tV3YxEx0wY .row {
-    flex-direction: column-reverse;
-  }
-  .cid-tV3YxEx0wY .row .map-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-tV3YxEx0wY .google-map {
-  height: 100%;
-  position: relative;
-}
-.cid-tV3YxEx0wY .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-tV3YxEx0wY .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-tV3YxEx0wY .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-tV3YxEx0wY .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-tV3YxEx0wY .image-wrapper {
-  display: flex;
-  align-items: center;
-}
-.cid-tV3YxEx0wY .card-wrapper {
-  display: flex;
-  border-radius: 4px;
-  background: #fafafa;
-}
-.cid-tV3YxEx0wY .card-wrapper:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-@media (max-width: 991px) {
-  .cid-tV3YxEx0wY .card-wrapper {
-    padding: 1rem 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tV3YxEx0wY .card-wrapper {
-    padding: 2rem 4rem;
-  }
-}
-.cid-tV3YxEx0wY .mbr-iconfont {
-  font-size: 2rem;
-  padding-right: 1.5rem;
-  color: #ffffff;
-}
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
@@ -4514,6 +4425,89 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-tV3Vd4tuXT {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/firefly-an-image-in-which-a-person-is-looking-through-a-telescope.-the-telescope-is-pointed-at-a-nig-3-2000x1143.jpg");
+}
+.cid-tV3Vd4tuXT .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tV3Vd4tuXT .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-tV3Vd4tuXT .mbr-text,
+.cid-tV3Vd4tuXT .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tV3YxEx0wY {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: #232323;
+}
+@media (max-width: 767px) {
+  .cid-tV3YxEx0wY .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tV3YxEx0wY .row .map-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tV3YxEx0wY .google-map {
+  height: 100%;
+  position: relative;
+}
+.cid-tV3YxEx0wY .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-tV3YxEx0wY .google-map [data-state-details] {
+  color: #6b6763;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-tV3YxEx0wY .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-tV3YxEx0wY .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-tV3YxEx0wY .image-wrapper {
+  display: flex;
+  align-items: center;
+}
+.cid-tV3YxEx0wY .card-wrapper {
+  display: flex;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-tV3YxEx0wY .card-wrapper:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-tV3YxEx0wY .card-wrapper {
+    padding: 1rem 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tV3YxEx0wY .card-wrapper {
+    padding: 2rem 4rem;
+  }
+}
+.cid-tV3YxEx0wY .mbr-iconfont {
+  font-size: 2rem;
+  padding-right: 1.5rem;
+  color: #ffffff;
 }
 .cid-s48P1Icc8J {
   padding-top: 3rem;
@@ -5146,6 +5140,78 @@ a {
     padding-right: 4rem;
   }
 }
+.cid-uaRxFR7pkS .mbr-text,
+.cid-uaRxFR7pkS .social-row {
+  text-align: left;
+}
+.cid-uBHmsg9ZBv {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #bbbbbb;
+}
+.cid-uBHmsg9ZBv .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uBHmsg9ZBv .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uBHmsg9ZBv .item:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+.cid-uBHmsg9ZBv .item-wrapper {
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+.cid-uBHmsg9ZBv .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-uBHmsg9ZBv .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 0.6rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border: 2px solid #6592e6;
+  transition: all 0.3s;
+}
+.cid-uBHmsg9ZBv .social-row .soc-item .mbr-iconfont {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  color: #6592e6;
+  font-size: 1.5rem;
+  transition: all 0.3s;
+}
+.cid-uBHmsg9ZBv .social-row .soc-item:hover {
+  background-color: #6592e6;
+}
+.cid-uBHmsg9ZBv .social-row .soc-item:hover .mbr-iconfont {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-uBHmsg9ZBv .card-box {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uBHmsg9ZBv .card-box {
+    padding-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uBHmsg9ZBv .card-box {
+    padding-left: 2rem;
+    padding-right: 4rem;
+  }
+}
 .cid-s48P1Icc8J {
   padding-top: 3rem;
   padding-bottom: 6rem;
@@ -5213,34 +5279,6 @@ a {
 }
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-tYvQTRpd73 {
-  padding-top: 10rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-tYvQTRpd73 .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-tYvQTRpd73 .row {
-    flex-direction: column-reverse;
-  }
-  .cid-tYvQTRpd73 .image-wrapper {
-    margin-bottom: 2rem;
-  }
-  .cid-tYvQTRpd73 .card-wrapper {
-    padding: 0 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tYvQTRpd73 .card-wrapper {
-    padding-right: 2rem;
-  }
-}
-.cid-tYvQTRpd73 .image-wrapper img {
-  width: 100%;
-  object-fit: cover;
 }
 .cid-s48OLK6784 {
   z-index: 1000;
@@ -5582,6 +5620,34 @@ a {
     left: -1rem;
   }
 }
+.cid-tYvQTRpd73 {
+  padding-top: 10rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-tYvQTRpd73 .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-tYvQTRpd73 .row {
+    flex-direction: column-reverse;
+  }
+  .cid-tYvQTRpd73 .image-wrapper {
+    margin-bottom: 2rem;
+  }
+  .cid-tYvQTRpd73 .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tYvQTRpd73 .card-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-tYvQTRpd73 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-s48P1Icc8J {
   padding-top: 3rem;
   padding-bottom: 6rem;
@@ -5649,64 +5715,6 @@ a {
 }
 .cid-s48P1Icc8J .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-u0vRTTApHj {
-  padding-top: 8rem;
-  padding-bottom: 0rem;
-  background-color: #8caff0;
-}
-.cid-u0vRTTRbcY {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #8caff0;
-}
-@media (max-width: 991px) {
-  .cid-u0vRTTRbcY .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-u0vRTTRbcY .row {
-  flex-direction: row-reverse;
-}
-.cid-u0vRTTRbcY img {
-  width: 100%;
-}
-.cid-u0vRTTRbcY .mbr-text {
-  text-align: left;
-}
-.cid-u0vRTU4Tg6 {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #8caff0;
-}
-.cid-u0vRTU4Tg6 .mbr-text {
-  text-align: center;
-}
-.cid-u0vRTUaQ6R {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mbr-1920x1311.jpg");
-}
-.cid-u0vRTUaQ6R .mbr-section-title {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-u0vRTUaQ6R .mbr-text,
-.cid-u0vRTUaQ6R .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .cid-u0vRTUaQ6R .mbr-section-title,
-  .cid-u0vRTUaQ6R .mbr-section-btn,
-  .cid-u0vRTUaQ6R .mbr-text {
-    text-align: center;
-  }
-}
-.cid-u0vRTUs5Vj {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/firefly-an-image-in-which-a-person-is-looking-through-a-telescope.-the-telescope-is-pointed-at-a-nig-3-2000x1143.jpg");
 }
 .cid-u0vRTUJ4Rf {
   z-index: 1000;
@@ -6047,6 +6055,64 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-u0vRTTApHj {
+  padding-top: 8rem;
+  padding-bottom: 0rem;
+  background-color: #8caff0;
+}
+.cid-u0vRTTRbcY {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #8caff0;
+}
+@media (max-width: 991px) {
+  .cid-u0vRTTRbcY .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u0vRTTRbcY .row {
+  flex-direction: row-reverse;
+}
+.cid-u0vRTTRbcY img {
+  width: 100%;
+}
+.cid-u0vRTTRbcY .mbr-text {
+  text-align: left;
+}
+.cid-u0vRTU4Tg6 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #8caff0;
+}
+.cid-u0vRTU4Tg6 .mbr-text {
+  text-align: center;
+}
+.cid-u0vRTUaQ6R {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/mbr-1920x1311.jpg");
+}
+.cid-u0vRTUaQ6R .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-u0vRTUaQ6R .mbr-text,
+.cid-u0vRTUaQ6R .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-u0vRTUaQ6R .mbr-section-title,
+  .cid-u0vRTUaQ6R .mbr-section-btn,
+  .cid-u0vRTUaQ6R .mbr-text {
+    text-align: center;
+  }
+}
+.cid-u0vRTUs5Vj {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/firefly-an-image-in-which-a-person-is-looking-through-a-telescope.-the-telescope-is-pointed-at-a-nig-3-2000x1143.jpg");
 }
 .cid-u0vRTUYURq {
   padding-top: 3rem;
@@ -6552,89 +6618,6 @@ a {
 .cid-u19Bt6bhE0 .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-u19G6RSEj4 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
-}
-.cid-u19G6RSEj4 .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-u19G6RSEj4 .mbr-section-subtitle {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-u19G6RSEj4 .mbr-text,
-.cid-u19G6RSEj4 .mbr-section-btn {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-u19G6SmzWC {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background: #232323;
-}
-@media (max-width: 767px) {
-  .cid-u19G6SmzWC .row {
-    flex-direction: column-reverse;
-  }
-  .cid-u19G6SmzWC .row .map-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-.cid-u19G6SmzWC .google-map {
-  height: 100%;
-  position: relative;
-}
-.cid-u19G6SmzWC .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-u19G6SmzWC .google-map [data-state-details] {
-  color: #6b6763;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-u19G6SmzWC .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-u19G6SmzWC .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
-.cid-u19G6SmzWC .image-wrapper {
-  display: flex;
-  align-items: center;
-}
-.cid-u19G6SmzWC .card-wrapper {
-  display: flex;
-  border-radius: 4px;
-  background: #fafafa;
-}
-.cid-u19G6SmzWC .card-wrapper:not(:nth-last-child(1)) {
-  margin-bottom: 2rem;
-}
-@media (max-width: 991px) {
-  .cid-u19G6SmzWC .card-wrapper {
-    padding: 1rem 2rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-u19G6SmzWC .card-wrapper {
-    padding: 2rem 4rem;
-  }
-}
-.cid-u19G6SmzWC .mbr-iconfont {
-  font-size: 2rem;
-  padding-right: 1.5rem;
-  color: #ffffff;
-}
 .cid-u19G6SPpdc {
   z-index: 1000;
   width: 100%;
@@ -6974,6 +6957,89 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-u19G6RSEj4 {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-01-13-at-20.38.54-1194x1328.jpg");
+}
+.cid-u19G6RSEj4 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-u19G6RSEj4 .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-u19G6RSEj4 .mbr-text,
+.cid-u19G6RSEj4 .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
+.cid-u19G6SmzWC {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: #232323;
+}
+@media (max-width: 767px) {
+  .cid-u19G6SmzWC .row {
+    flex-direction: column-reverse;
+  }
+  .cid-u19G6SmzWC .row .map-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-u19G6SmzWC .google-map {
+  height: 100%;
+  position: relative;
+}
+.cid-u19G6SmzWC .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-u19G6SmzWC .google-map [data-state-details] {
+  color: #6b6763;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-u19G6SmzWC .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-u19G6SmzWC .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+.cid-u19G6SmzWC .image-wrapper {
+  display: flex;
+  align-items: center;
+}
+.cid-u19G6SmzWC .card-wrapper {
+  display: flex;
+  border-radius: 4px;
+  background: #fafafa;
+}
+.cid-u19G6SmzWC .card-wrapper:not(:nth-last-child(1)) {
+  margin-bottom: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-u19G6SmzWC .card-wrapper {
+    padding: 1rem 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u19G6SmzWC .card-wrapper {
+    padding: 2rem 4rem;
+  }
+}
+.cid-u19G6SmzWC .mbr-iconfont {
+  font-size: 2rem;
+  padding-right: 1.5rem;
+  color: #ffffff;
 }
 .cid-u19G6Tcu8m {
   padding-top: 3rem;
